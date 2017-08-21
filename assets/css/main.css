@@ -1796,7 +1796,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #000000;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -1819,7 +1819,7 @@
 		}
 
 	strong, b {
-		color: #646464;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -1832,7 +1832,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #646464;
+		color: #000000;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -1945,7 +1945,7 @@
 	}
 
 	header p {
-		color: #999;
+		color: #000000;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		font-style: italic;
@@ -1983,7 +1983,7 @@
 		header.major p {
 			display: inline-block;
 			border-top: solid 2px #e5e5e5;
-			color: #777;
+			color: #000000;
 			margin: 1.5em 0 0 0;
 			padding: 1.5em 0 0 0;
 			font-style: normal;
@@ -1996,7 +1996,7 @@
 	}
 
 	label {
-		color: #646464;
+		color: #000000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 300;
@@ -3110,7 +3110,7 @@
 
 			#main > header p {
 				border-top: solid 2px #e5e5e5;
-				color: #777;
+				color: #000000;
 				display: inline-block;
 				font-style: normal;
 				margin: 1em 0 0 0;
